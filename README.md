@@ -54,3 +54,13 @@ One of the most significant and immediate actions of the new government, enshrin
 The Charter of Rights also laid out fundamental freedoms and protections, such as freedom of speech, religion, and assembly, along with the right to a fair trial and protection against discrimination. These provisions reflected the diverse cultural and historical influences of the Azorian populace and were designed to safeguard the dignity and rights of all its citizens.
 
 The Azorian Charter of Rights and the government it underpinned marked the beginning of a new era for the Azorian Isles, one built on the pillars of liberty, equality, and a deep respect for the rich tapestry of cultures that defined the nation.
+
+
+
+
+## Modified Land Areas
+Prov 1706
+2313
+
+
+
