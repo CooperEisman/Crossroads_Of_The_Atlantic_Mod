@@ -1,0 +1,26 @@
+state={
+	id=937
+	name="STATE_937"
+	provinces={
+		13377 13383 13384 13385 13392 13394 13395 13400 13403 13410 13415 
+	}
+	manpower = 322900
+	
+	state_category = town
+
+	history={
+		owner = AZO
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = AZO
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
